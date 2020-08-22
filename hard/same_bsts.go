@@ -1,7 +1,5 @@
 /*
-
 	Same BSTs
-
 
 		An array of integers is said to represent the Binary Serach Tree (BST)
 		obtained by inserting each integer in the array, from left to right
