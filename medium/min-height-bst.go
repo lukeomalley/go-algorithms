@@ -18,7 +18,7 @@ func MinHeightBST(array []int) *BST {
 func constructMinHeightBst(array []int, bst *BST, startIdx, endIdx int) *BST {
 	if endIdx < startIdx {
 		return bst
-	}
+	e
 
 	midIdx := +((startIdx + endIdx) / 2)
 	valueToAdd := array[midIdx]
